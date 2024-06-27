@@ -23,7 +23,7 @@ The full API of this library can be found in [api.md](api.md).
 import Cloudflare from 'cloudflare';
 
 const cloudflare = new Cloudflare({
-  apiEmail: process.env['CLOUDFLARE_EMAIL'], // This is the default and can be omitted
+  apiEmail: process.env['vedariusarussell@gmail.com'], // This is the default and can be omitted
   apiKey: process.env['CLOUDFLARE_API_KEY'], // This is the default and can be omitted
 });
 
