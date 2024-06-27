@@ -1522,3 +1522,4 @@ npm WARN deprecated json-schema-ref-parser@6.1.0: Please switch to @apidevtools/
 [12:41:12 PM] › [CLI] ▶  start     Prism is listening on http://127.0.0.1:4010
 [12:41:13 PM] › [HTTP SERVER] get / ℹ  info      Request received
 [12:41:13 PM] › [HTTP SERVER] get / ✖  error     Request terminated with error: https://stoplight.io/prism/errors#NO_PATH_MATCHED_ERROR: Route not resolved, no path matched
+Killed
