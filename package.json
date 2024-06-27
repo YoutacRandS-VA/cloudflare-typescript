@@ -24,6 +24,7 @@
     "fix": "eslint --fix --ext ts,js ."
   },
   "dependencies": {
+    "@cloudflare/opaque-ts": "^0.7.5",
     "@types/node": "^18.11.18",
     "@types/node-fetch": "^2.6.4",
     "@types/qs": "^6.9.7",
